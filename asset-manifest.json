@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Web2VolkovaNew/static/css/main.2854f7ea.css",
+    "main.js": "/Web2VolkovaNew/static/js/main.cda0b1f2.js",
+    "index.html": "/Web2VolkovaNew/index.html",
+    "main.2854f7ea.css.map": "/Web2VolkovaNew/static/css/main.2854f7ea.css.map",
+    "main.cda0b1f2.js.map": "/Web2VolkovaNew/static/js/main.cda0b1f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2854f7ea.css",
+    "static/js/main.cda0b1f2.js"
+  ]
+}
